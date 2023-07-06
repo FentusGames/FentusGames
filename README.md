@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FentusGames
+- 👀 I'm passionate about games, network programming, Java, Python, and building websites with Django.
+- 🌱 I'm currently on a journey of continuous learning, expanding my knowledge in various fields.
+- 💞️ I'm actively seeking collaboration opportunities on projects. Give me a good project and freedom, and I'll give you the world! Of course, fair compensation is appreciated. 😉
+- 📫 Email: fentusgames@gmail.com
