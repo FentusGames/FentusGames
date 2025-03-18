@@ -1,5 +1,3 @@
-- 👋 Hello there, I go by the handle @FentusGames.
-- 👀 I have a deep passion for gaming, network programming, Java, Python, and crafting websites using Django.
-- 🌱 My current path involves a constant quest for knowledge, with a focus on diverse fields.
-- 💞️ I'm eagerly looking for chances to collaborate on exciting projects. Provide me with an intriguing project and some creative freedom, and I'll deliver exceptional results! Fair compensation is, of course, welcomed. 😉
+Hello there, I go by the handle @FentusGames. I have a deep passion for gaming, network programming, Java, Python, and developing websites using Django. I am always on a journey to expand my knowledge across various fields. I am eager to collaborate on exciting projects—give me an engaging challenge and some creative freedom, and I will deliver top-notch results. Fair compensation is always appreciated.
+
 - 📫 Email: fentusgames@gmail.com
